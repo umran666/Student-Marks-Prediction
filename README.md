@@ -7,7 +7,6 @@ This project predicts students' math exam scores based on their test preparation
 The dataset contains students' scores and their test preparation course completion status. We use this data to train regression models to predict math scores. The project compares the performance of:
 
 - **Linear Regression**
-- **Random Forest Regressor**
 
 Various evaluation metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R² score are used to assess model performance.
 
